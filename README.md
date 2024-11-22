@@ -1,4 +1,4 @@
-# bash-port-scan
+# port-scanner
 -ONLY TCP CONNECTION
 -ONLY BASH
 
